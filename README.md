@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,31&height=180&section=header&text=FILIPE%20NETO%20CUNHA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20.NET%20%26%20DESKTOP%20ARCHITECTURE&descSize=14&descAlignY=58&descAlign=50" width="100%" />
+<a href="https://github.com/santosoxd">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=90&lines=⚡+FILIPE+NETO+CUNHA+⚡;SOFTWARE+ENGINEER;C%23+%2F+.NET+%7C+DESKTOP+%26+BACKEND;BUILDING+ROBUST+SYSTEMS" alt="Typing SVG" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=santosoxd&label=VISITANTES&color=007ec6&style=for-the-badge)](https://github.com/santosoxd)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipenetocunha)
-[![Email](https://img.shields.io/badge/EMAIL-1877F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipenetocunha@infoeco.com)
+<br/>
+
+[![Visitantes](https://komarev.com/ghpvc/?username=santosoxd&label=VISITANTES&color=007ec6&style=for-the-badge)](https://github.com/santosoxd)
+[![Status](https://img.shields.io/badge/STATUS-INFOECO-0052cc?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/santosoxd)
+[![Email](https://img.shields.io/badge/EMAIL-filipenetocunha%40infoeco.com-1877F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipenetocunha@infoeco.com)
 
 </div>
 
@@ -52,7 +56,7 @@ const FilipeNetoCunha = {
 
 ---
 
-### 📊 Atividade & Consistência
+### 📊 Atividade & Métricas
 
 <div align="center">
 
@@ -61,8 +65,8 @@ const FilipeNetoCunha = {
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,24,14,6&height=80&section=footer" width="100%"/>
+  <sub>⚡ <i>"Construído com robustez. Desenvolvido para durar."</i> ⚡</sub>
 </div>
