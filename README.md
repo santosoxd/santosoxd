@@ -10,12 +10,36 @@
 
 ### ⚡ Sobre Mim
 
-Desenvolvedor de software em **Lisboa, Portugal**, focado no desenvolvimento de sistemas corporativos e aplicações desktop de alto rendimento.
+Desenvolvedor de software em **Lisboa, Portugal**, focado na concepção e manutenção de sistemas corporativos, arquiteturas escaláveis e aplicações desktop de alto rendimento.
 
 - 💼 **Empresa Atual:** Desenvolvedor de Software na **InfoEco**.
 - 🛠️ **Especialidade:** Ecossistema **C# / .NET**, WinForms, integração de dados e arquitetura desacoplada.
-- 📐 **Princípio:** Código direto, robustez em regras de negócio e zero complexidade desnecessária.
+- 📐 **Princípio:** Código direto, integridade em regras de negócio e zero complexidade acidental.
 - 📬 **Contato Direto:** [filipenetocunha@gmail.com](mailto:filipenetocunha@gmail.com)
+
+---
+
+### 📌 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🌉 <a href="https://github.com/santosoxd/DataBridge.CLI">DataBridge.CLI</a></h4>
+      <p>Ferramenta de console para ingestão em lote, conciliação e sincronização transacional SQLite/SQL Server com validação estrita.</p>
+      <sub><b>Stack:</b> .NET, C#, SQLite, xUnit</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛡️ <a href="https://github.com/santosoxd/WinLogSentinel">WinLogSentinel</a></h4>
+      <p>Utilitário desktop moderno para monitoramento em tempo real (<i>tail -f</i>) de logs corporativos e status de serviços sem bloqueio de IO.</p>
+      <sub><b>Stack:</b> C#, WinForms, Streams, xUnit</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💼 <a href="https://github.com/santosoxd/CoreOps.Api">CoreOps.Api</a></h4>
+      <p>Web API em Clean Architecture para controle operacional, liquidação de ordens e regras financeiras de pós-datação.</p>
+      <sub><b>Stack:</b> ASP.NET Core, OpenAPI, Domain Models</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,7 +50,7 @@ Desenvolvedor de software em **Lisboa, Portugal**, focado no desenvolvimento de 
 | Domínio | Stack em Destaque |
 | :--- | :--- |
 | **Linguagens** | `C#` &bull; `.NET` &bull; `Python` &bull; `SQL` &bull; `PowerShell` |
-| **Arquitetura & Desktop** | `WinForms` &bull; `WPF` &bull; `Entity Framework Core` &bull; `Flask` |
+| **Arquitetura & Desktop** | `WinForms` &bull; `WPF` &bull; `Entity Framework Core` &bull; `Minimal APIs` |
 | **Bancos de Dados** | `SQL Server` &bull; `SQLite` &bull; `Database Modeling & Queries` |
 | **Workflow & DevOps** | `Visual Studio` &bull; `Git & GitHub` &bull; `CI/CD Automation` |
 
