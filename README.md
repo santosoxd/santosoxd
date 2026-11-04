@@ -13,6 +13,7 @@
 Desenvolvedor de software em **Lisboa, Portugal**, focado na concepção e manutenção de sistemas corporativos, arquiteturas escaláveis e aplicações desktop de alto rendimento.
 
 - 💼 **Empresa Atual:** Desenvolvedor de Software na **InfoEco**.
+- 🌐 **Projeto em Produção:** Criador da plataforma e website público [milleflowersgarden.pt](https://milleflowersgarden.pt).
 - 🛠️ **Especialidade:** Ecossistema **C# / .NET**, WinForms, integração de dados e arquitetura desacoplada.
 - 📐 **Princípio:** Código direto, integridade em regras de negócio e zero complexidade acidental.
 - 📬 **Contato Direto:** [filipenetocunha@gmail.com](mailto:filipenetocunha@gmail.com)
