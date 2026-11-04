@@ -8,7 +8,7 @@
 
 [![Visitantes](https://komarev.com/ghpvc/?username=santosoxd&label=VISITANTES&color=007ec6&style=for-the-badge)](https://github.com/santosoxd)
 [![Status](https://img.shields.io/badge/STATUS-INFOECO-0052cc?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/santosoxd)
-[![Email](https://img.shields.io/badge/EMAIL-filipenetocunha%40infoeco.com-1877F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipenetocunha@infoeco.com)
+[![Email](https://img.shields.io/badge/EMAIL-filipenetocunha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipenetocunha@gmail.com)
 
 </div>
 
@@ -16,18 +16,12 @@
 
 ### ⚡ Sobre Mim
 
-```typescript
-const FilipeNetoCunha = {
-  localizacao: "Lisboa, Portugal",
-  cargoAtual: "Software Developer @ InfoEco",
-  focoPrincipal: [".NET", "C#", "WinForms", "Sistemas de Gestão"],
-  filosofia: "Robustez, código limpo e arquitetura de alto rendimento sem complexidade acidental"
-};
-```
+Desenvolvedor de software em **Lisboa, Portugal**, focado no desenvolvimento de sistemas corporativos e aplicações desktop de alto rendimento.
 
-- 💼 **Atualmente:** Desenvolvendo soluções corporativas e sistemas de gestão na **InfoEco**.
-- 🛠️ **Especialidade:** Aplicações desktop Windows, manipulação de dados e automação de regras de negócio.
-- 📬 **Contato direto:** [`filipenetocunha@infoeco.com`](mailto:filipenetocunha@infoeco.com)
+- 💼 **Empresa Atual:** Desenvolvedor de Software na **InfoEco**.
+- 🛠️ **Especialidade:** Ecossistema **C# / .NET**, WinForms, integração de dados e arquitetura desacoplada.
+- 📐 **Princípio:** Código direto, robustez em regras de negócio e zero complexidade desnecessária.
+- 📬 **Contato Direto:** [filipenetocunha@gmail.com](mailto:filipenetocunha@gmail.com)
 
 ---
 
