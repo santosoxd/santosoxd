@@ -1,89 +1,91 @@
 <div align="center">
-
-<svg viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a192f"/>
-      <stop offset="50%" stop-color="#0f2b48"/>
-      <stop offset="100%" stop-color="#020c1b"/>
-    </linearGradient>
-    <linearGradient id="neonBlue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#2563eb"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="800" height="200" rx="16" fill="url(#blueGrad)"/>
-
-  <!-- Grid lines -->
-  <g stroke="#1e3a5f" stroke-width="0.7" opacity="0.35">
-    <line x1="0" y1="40" x2="800" y2="40"/>
-    <line x1="0" y1="80" x2="800" y2="80"/>
-    <line x1="0" y1="120" x2="800" y2="120"/>
-    <line x1="0" y1="160" x2="800" y2="160"/>
-    <line x1="160" y1="0" x2="160" y2="200"/>
-    <line x1="320" y1="0" x2="320" y2="200"/>
-    <line x1="480" y1="0" x2="480" y2="200"/>
-    <line x1="640" y1="0" x2="640" y2="200"/>
-  </g>
-
-  <!-- Node points -->
-  <circle cx="160" cy="80" r="3" fill="#38bdf8" filter="url(#glow)"/>
-  <circle cx="480" cy="120" r="3" fill="#38bdf8" filter="url(#glow)"/>
-  <circle cx="640" cy="80" r="3" fill="#60a5fa"/>
-
-  <!-- Header Text -->
-  <text x="400" y="85" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="34" fill="#ffffff" letter-spacing="1.5">
-    FILIPE NETO CUNHA
-  </text>
-  <text x="400" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="14" fill="url(#neonBlue)" letter-spacing="4">
-    SOFTWARE ENGINEERING &bull; DESKTOP &bull; BACKEND
-  </text>
-  <text x="400" y="155" text-anchor="middle" font-family="'Consolas', 'Courier New', monospace" font-size="12" fill="#93c5fd" opacity="0.8">
-    📍 Lisbon, Portugal
-  </text>
-</svg>
-
+  <a href="https://github.com/santosoxd">
+    <img src="assets/banner.svg" alt="Filipe Neto Cunha Banner" width="100%" />
+  </a>
 </div>
 
----
+<br/>
 
-### ⚡ Sobre Mim
+<table align="center" width="100%" border="0" style="border: none;">
+  <tr>
+    <td width="58%" valign="top" style="border: none;">
+      <h3>⚡ Sobre mim</h3>
+      <p>
+        Desenvolvedor de software sediado em Lisboa, focado na criação de 
+        <b>aplicações desktop robustas</b>, arquiteturas de alto rendimento e regras de negócio críticas.
+      </p>
+      <ul>
+        <li>🏗️ <b>Especialidade:</b> Ecossistema .NET, C#, automação de processos e integração de sistemas legados/modernos.</li>
+        <li>🧩 <b>Mentalidade:</b> Código limpo, manutenível, guiado pela menor complexidade possível (<i>YAGNI / Zero Fluff</i>).</li>
+        <li>🚀 <b>Construindo:</b> Projetos de produtividade e ferramentas de engenharia contínua.</li>
+      </ul>
+      <p>
+        <b>Email de contato:</b> <a href="mailto:filipe.neto.cunha@infoeco.com">filipe.neto.cunha@infoeco.com</a>
+      </p>
+    </td>
+    <td width="42%" valign="top" align="center" style="border: none;">
+      <a href="https://github.com/santosoxd">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=santosoxd&show_icons=true&title_color=38bdf8&text_color=cbd5e1&icon_color=00f2fe&bg_color=0a192f&border_color=1e3a5f&hide_border=false" width="100%" alt="Estatísticas GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Engenharia de software com foco em robustez, regras de negócio consistentes e automação de processos.
+<br/>
 
-- 🎯 **Foco**: Desenvolvimento C# / .NET, WinForms, automação e arquitetura desktop.
-- 📐 **Princípio**: Código limpo, testes diretos, zero complexidade acidental.
-- ⚙️ **Stack Principal**: C#, .NET, Python, SQL Server, Git.
+### 🛠️ Stack & Tecnologias
 
----
+<table width="100%">
+  <tr>
+    <th align="left" width="22%">Área</th>
+    <th align="left">Ferramentas & Tecnologias em Destaque</th>
+  </tr>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-%230b2046.svg?style=for-the-badge&logo=csharp&logoColor=38bdf8" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET-%230b2046.svg?style=for-the-badge&logo=dotnet&logoColor=38bdf8" alt=".NET" />
+      <img src="https://img.shields.io/badge/Python-%230b2046.svg?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-%230b2046.svg?style=for-the-badge&logo=mysql&logoColor=38bdf8" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Desktop</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/WinForms-%230b2046.svg?style=for-the-badge&logo=windows&logoColor=38bdf8" alt="WinForms" />
+      <img src="https://img.shields.io/badge/Entity_Framework-%230b2046.svg?style=for-the-badge&logo=.net&logoColor=38bdf8" alt="EF Core" />
+      <img src="https://img.shields.io/badge/Flask-%230b2046.svg?style=for-the-badge&logo=flask&logoColor=38bdf8" alt="Flask" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bancos de Dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL_Server-%230b2046.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=38bdf8" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/SQLite-%230b2046.svg?style=for-the-badge&logo=sqlite&logoColor=38bdf8" alt="SQLite" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas & Workflow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual_Studio-%230b2046.svg?style=for-the-badge&logo=visualstudio&logoColor=38bdf8" alt="Visual Studio" />
+      <img src="https://img.shields.io/badge/Git-%230b2046.svg?style=for-the-badge&logo=git&logoColor=38bdf8" alt="Git" />
+      <img src="https://img.shields.io/badge/PowerShell-%230b2046.svg?style=for-the-badge&logo=powershell&logoColor=38bdf8" alt="PowerShell" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-%230b2046.svg?style=for-the-badge&logo=githubactions&logoColor=38bdf8" alt="GitHub Actions" />
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Arsenal Técnico
+<br/>
 
-```text
-Core Languages   ───►  [ C# ]  [ .NET ]  [ Python ]  [ SQL ]
-Frameworks & DB  ───►  [ WinForms ]  [ Entity Framework ]  [ SQL Server ]  [ SQLite ]
-Tooling & Env    ───►  [ Visual Studio ]  [ Git ]  [ PowerShell ]  [ CI/CD ]
-```
-
----
-
-### 📊 GitHub Activity
+### 📈 Sequência & Métricas de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santosoxd&show_icons=true&theme=tokyonight&bg_color=0a192f&title_color=38bdf8&text_color=93c5fd&icon_color=38bdf8&border_color=1e3a5f" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosoxd&layout=compact&theme=tokyonight&bg_color=0a192f&title_color=38bdf8&text_color=93c5fd&border_color=1e3a5f" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosoxd&theme=tokyonight&background=0a192f&border=1e3a5f&stroke=00f2fe&ring=00f2fe&fire=38bdf8&currStreakLabel=00f2fe" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santosoxd&layout=compact&title_color=38bdf8&text_color=cbd5e1&bg_color=0a192f&border_color=1e3a5f" width="49%" alt="Top Languages" />
 </p>
 
----
+<br/>
 
 <div align="center">
-  <sub>Construído com precisão. Sem ruído.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=90&section=footer" width="100%"/>
 </div>
