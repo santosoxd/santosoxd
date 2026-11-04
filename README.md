@@ -24,13 +24,13 @@ Desenvolvedor de software em **Lisboa, Portugal**, focado na concepção e manut
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🌉 <a href="https://github.com/santosoxd/DataBridge.CLI">DataBridge.CLI</a></h4>
-      <p>Ferramenta de console para ingestão em lote, conciliação e sincronização transacional SQLite/SQL Server com validação estrita.</p>
-      <sub><b>Stack:</b> .NET, C#, SQLite, xUnit</sub>
+      <h4>🔐 <a href="https://github.com/santosoxd/DevVault.Manager">DevVault.Manager</a></h4>
+      <p>Gerenciador desktop seguro para credenciais e connection strings entre ambientes com criptografia militar AES-256 e derivação PBKDF2.</p>
+      <sub><b>Stack:</b> C#, WinForms, Cryptography, xUnit</sub>
     </td>
     <td width="33%" valign="top">
       <h4>🛡️ <a href="https://github.com/santosoxd/WinLogSentinel">WinLogSentinel</a></h4>
-      <p>Utilitário desktop moderno para monitoramento em tempo real (<i>tail -f</i>) de logs corporativos e status de serviços sem bloqueio de IO.</p>
+      <p>Utilitário desktop moderno para monitoramento contínuo em tempo real (<i>tail -f</i>) de logs corporativos e status de serviços sem bloqueio de IO.</p>
       <sub><b>Stack:</b> C#, WinForms, Streams, xUnit</sub>
     </td>
     <td width="33%" valign="top">
