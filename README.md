@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=90&lines=⚡+FILIPE+NETO+CUNHA+⚡;SOFTWARE+ENGINEER;C%23+%2F+.NET+%7C+DESKTOP+%26+BACKEND;BUILDING+ROBUST+SYSTEMS" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![Visitantes](https://komarev.com/ghpvc/?username=santosoxd&label=VISITANTES&color=007ec6&style=for-the-badge)](https://github.com/santosoxd)
-[![Status](https://img.shields.io/badge/STATUS-INFOECO-0052cc?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/santosoxd)
-[![Email](https://img.shields.io/badge/EMAIL-filipenetocunha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipenetocunha@gmail.com)
-
 </div>
 
 <br/>
