@@ -23,7 +23,8 @@ Engenheiro de software focado em performance, previsibilidade e arquitetura desa
 
 - 🛠️ **Foco Principal:** Ecossistema **C# / .NET**, aplicações desktop Windows, ferramentas internas e integração com banco de dados.
 - 🎯 **Filosofia:** *Keep it simple.* Menor número de camadas desnecessárias, regras claras e zero débito invisível.
-- 💼 **Contato Profissional:** [filipe.neto.cunha@infoeco.com](mailto:filipe.neto.cunha@infoeco.com)
+- 💼 **Atualmente:** Desenvolvendo soluções de software na **InfoEco** (C# / .NET & Sistemas de Gestão).
+- 📬 **Contato:** [filipe.neto.cunha@infoeco.com](mailto:filipe.neto.cunha@infoeco.com)
 
 ---
 
